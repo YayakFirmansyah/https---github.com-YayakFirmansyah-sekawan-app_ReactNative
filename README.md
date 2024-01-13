@@ -1,6 +1,3 @@
-Tentu, berikut ini adalah contoh isi file README untuk proyek React Native dengan judul "Sekawan App":
-
-```markdown
 # Sekawan App
 
 Sekawan App adalah aplikasi mobile berbasis React Native yang dirancang untuk membantu pengguna dalam mengelola dan menyimpan kontak teman-teman mereka.
