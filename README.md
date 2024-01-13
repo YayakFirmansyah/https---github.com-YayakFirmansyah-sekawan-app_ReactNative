@@ -1,6 +1,6 @@
 # Sekawan App
 
-Sekawan App adalah aplikasi mobile berbasis React Native yang dirancang untuk membantu pengguna dalam mengelola dan menyimpan kontak teman-teman mereka.
+Sekawan App adalah aplikasi mobile berbasis React Native yang dirancang untuk membantu pengguna dalam mengelola dan menyimpan API.
 
 ## Fitur Utama
 
